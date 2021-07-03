@@ -1,8 +1,8 @@
-<h1 align="center">Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h1 align="center"> Hi! i'm is Cristian Granada. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h3 align="center">A Software Engineer Student at Holberton School</h3>
 
 </p>
-<div size='20px'> Hi! My name is Cristian Granada. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>  Hello Fellow < Developers/ >! Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
 <h2> About Me </h2>
